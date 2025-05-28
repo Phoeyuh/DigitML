@@ -103,4 +103,4 @@ Dataset utilizzati:
 <br>
 
 # 📄 Licenza
-Questo progetto è rilasciato sotto [MIT License](LICENSE.txt).
+Questo progetto è rilasciato sotto [MIT License](LICENSE).
