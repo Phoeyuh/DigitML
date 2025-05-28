@@ -8,7 +8,7 @@
 <i>Un grazie speciale a queste fantastiche persone che hanno contribuito al progetto:</i>
 <br>
 <p>
-  <a href="https://github.com/paolomalgarin/DigitML/graphs/contributors">
+  <a href="https://github.com/phoeyuh/DigitML/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=phoeyuh/DigitML" />
   </a>
 </p>
