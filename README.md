@@ -26,7 +26,7 @@
 <br>
 
 # 📖 INDICE  
- * 📥 [Installation guide]("README%20-%20Stuff/Documentation/INSTALLATION-OPTIONS.md)
+ * 📥 [Installation guide](README%20-%20Stuff/Documentation/INSTALLATION-OPTIONS.md)
  * 📌 [Panoramica](#-panoramica)
  * 🏗️ [Architettura & Flusso dei Dati](#%EF%B8%8F-architettura--flusso-dei-dati)  
  * 🛠️ [Tecnologie Utilizzate](#%EF%B8%8F-tecnologie-utilizzate)  
